@@ -2,7 +2,7 @@
   "name": "web_ai_chat_voice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gunasaikrishna.github.io/web_ai_chat_voice",
+"homepage": "https://gunasaikrishna.github.io/FaceRecognitionChatBox",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
